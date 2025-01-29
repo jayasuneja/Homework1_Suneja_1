@@ -1,0 +1,3 @@
+
+This is a .txt file added to my cloned repository folder (Homework1_Suneja_1). Version control is important to keep track of changes across multiple changes for collaboration with peers on a single project with lots of moving parts!
+
